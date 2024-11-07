@@ -1,0 +1,10 @@
+D:\SzabolicsAndras13P\Szisarp\Etterem\bin\Debug\Etterem.exe.config
+D:\SzabolicsAndras13P\Szisarp\Etterem\bin\Debug\Etterem.exe
+D:\SzabolicsAndras13P\Szisarp\Etterem\bin\Debug\Etterem.pdb
+D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.csproj.AssemblyReference.cache
+D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.Properties.Resources.resources
+D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.csproj.GenerateResource.cache
+D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.csproj.CoreCompileInputs.cache
+D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.exe
+D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.pdb
+D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.EtteremNyilvantartas.resources
