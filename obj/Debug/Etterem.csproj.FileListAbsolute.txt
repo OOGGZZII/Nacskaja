@@ -8,3 +8,10 @@ D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.csproj.CoreCompileInputs
 D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.exe
 D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.pdb
 D:\SzabolicsAndras13P\Szisarp\Etterem\obj\Debug\Etterem.EtteremNyilvantartas.resources
+D:\naxa levente\Étterem\obj\Debug\Etterem.csproj.AssemblyReference.cache
+D:\naxa levente\Étterem\obj\Debug\Etterem.EtteremNyilvantartas.resources
+D:\naxa levente\Étterem\obj\Debug\Etterem.Properties.Resources.resources
+D:\naxa levente\Étterem\obj\Debug\Etterem.csproj.GenerateResource.cache
+D:\naxa levente\Étterem\obj\Debug\Etterem.csproj.CoreCompileInputs.cache
+D:\naxa levente\Étterem\obj\Debug\Etterem.exe
+D:\naxa levente\Étterem\obj\Debug\Etterem.pdb

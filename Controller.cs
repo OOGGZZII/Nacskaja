@@ -11,6 +11,8 @@ namespace Etterem
     {
         public LinkedList<Food> foods = new LinkedList<Food>();
 
+
+
         public void fillFoods() { 
         
         }
